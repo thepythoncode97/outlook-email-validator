@@ -1,49 +1,26 @@
-# Outlook Valid Email Checker
+# Outlook Email Validator
+# Outlook 电子邮件验证器
 
-![Image](https://raw.githubusercontent.com/thepythoncode97/Outlook-Valid-Email-Checker/refs/heads/main/main.png)
-![Image](https://raw.githubusercontent.com/thepythoncode97/Outlook-Valid-Email-Checker/refs/heads/main/live.png)
-![Image](https://raw.githubusercontent.com/thepythoncode97/Outlook-Valid-Email-Checker/refs/heads/main/dead.png)
+![Outlook Email Validator](https://raw.githubusercontent.com/alexrony21/outlook-email-validator/refs/heads/main/outlook-email-validator.png)
 
-### Supported Countries and Outlook Domains
+## 🚀 Features
 
-- United States: outlook.com
-- United Kingdom: outlook.com
-- Canada: outlook.com
-- France: outlook.fr
-- Germany: outlook.de
-- Italy: outlook.it
-- Spain: outlook.es
-- Australia: outlook.com
-- Netherlands: outlook.nl
-- Belgium: outlook.be
-- Switzerland: outlook.ch
-- Austria: outlook.at
-- Sweden: outlook.se
-- Denmark: outlook.dk
-- Norway: outlook.no
-- Finland: outlook.fi
-- Portugal: outlook.pt
-- Greece: outlook.gr
-- Ireland: outlook.ie
-- Poland: outlook.pl
-- Russia: outlook.ru
-- Turkey: outlook.com.tr
-- Brazil: outlook.com.br
-- Mexico: outlook.com.mx
-- Argentina: outlook.com.ar
-- Chile: outlook.cl
-- India: outlook.co.in
-- Japan: outlook.co.jp
-- China: outlook.cn
-- South Korea: outlook.co.kr
-- Taiwan: outlook.com.tw
-- Hong Kong: outlook.com.hk
-- New Zealand: outlook.co.nz
+1. Fast Checking  
+2. Accurate Results  
+3. HTTP Proxy Support  
+4. Advanced Mechanism for Checking Large Amounts  
+5. Unlimited Checking  
+6. Supports All outlook Domains  
+7. 350+ CPM with Free Proxy  
 
-## Contact
+## 🤝 Get in Touch
 
-If you want to purchase this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+if you want to purchase,
+
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
 ## Note:
 This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
 
+Thanks
